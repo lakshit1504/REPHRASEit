@@ -37,7 +37,7 @@ function App() {
     <>
         <Router>
         {/* <Link to="/about">About</Link> */}
-        <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode}/>
+        <Navbar title="REPHRASEit" mode={mode} toggleMode={toggleMode}/>
         <Alert alert={alert}/>
         <div className="container my-3">
 
